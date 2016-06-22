@@ -9,7 +9,7 @@ Type func(Type x) {
 }
 
 // Make it work for vectors
-VECTORIZE_1t(func)
+VECTORIZE1_t(func)
 
 }
 
