@@ -3,7 +3,6 @@ Demonstrate how to distribute cpp code for TMB
 
 This installs the contributed code:
 ```R
-library(TMB)
 TMB:::install.contrib("https://github.com/kaskr/example_cpp/archive/master.zip")
 ```
 
